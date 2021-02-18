@@ -19,9 +19,12 @@ I'm a Computer Science major at San Francisco State University. My CS program at
 I've also taken courses with exposure to Assembly Language, C, C++, and Python, with database experience in MonogoDB and MySQL. I also have some exposure in Ariticifal Intelligence, with Machine Learning.
 <br/>
 <br/>
+<br/>
 🔭 I'm currently working on:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rinaykumar&repo=2chainz-or-bot)](https://github.com/rinaykumar/2chainz-or-bot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rinaykumar&repo=sodaChat)](https://github.com/rinaykumar/sodaChat)
+<br/>
+<br/>
 
 ![Rinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinaykumar&hide=contribs,prs)
