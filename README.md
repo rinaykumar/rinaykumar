@@ -1,10 +1,5 @@
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
-</p>
-
 ### Hi there 👋 
-### I'm Rinay Kumar
+### I'm Rinay
 
 <img align="left" alt="Rinay's LinkdeIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/rinay-kumar/">
   linkedin.com/in/rinay-kumar
@@ -28,3 +23,5 @@ I've also taken courses with exposure to Assembly Language, C, C++, and Python, 
 <br/>
 
 ![Rinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinaykumar&hide=contribs,prs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinaykumar&layout=compact)]
