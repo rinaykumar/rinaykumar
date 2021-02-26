@@ -4,8 +4,8 @@
 <img align="left" alt="Rinay's LinkdeIn" width="25px" src="https://github.com/rdimascio/icons/blob/master/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/rinay-kumar/">
   linkedin.com/in/rinay-kumar
 </a>
-<br/>
-<img align="left" alt="" width="25px" src="https://github.com/rdimascio/icons/blob/master/icons/discord.svg" /> rinaykumar#6920
+
+<img align="left" alt="" width="25px" src="https://github.com/rdimascio/icons/blob/master/icons/discord.svg"/> rinaykumar#6920
  
 <br/>
 
@@ -18,7 +18,6 @@ I've also taken courses with exposure to Assembly Language, C, C++, and Python, 
 🔭 I'm currently working on:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rinaykumar&repo=2chainz-or-bot)](https://github.com/rinaykumar/2chainz-or-bot)
-<br/>
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinaykumar&layout=compact)
