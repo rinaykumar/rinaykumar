@@ -1,5 +1,4 @@
-# Hi there 👋 
-## I'm Rinay
+# Hi there 👋 I'm Rinay
 
 <img align="left" alt="Rinay's LinkdeIn" width="20px" src="https://github.com/rdimascio/icons/blob/master/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/rinay-kumar/">
   linkedin.com/in/rinay-kumar
