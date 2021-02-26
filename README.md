@@ -1,11 +1,11 @@
 ### Hi there 👋 
 ### I'm Rinay
 
-<img align="left" alt="Rinay's LinkdeIn" width="25px" src="https://github.com/rdimascio/icons/blob/master/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/rinay-kumar/">
+<img align="left" alt="Rinay's LinkdeIn" width="20px" src="https://github.com/rdimascio/icons/blob/master/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/rinay-kumar/">
   linkedin.com/in/rinay-kumar
 </a>
 
-<img align="left" alt="" width="25px" src="https://github.com/rdimascio/icons/blob/master/icons/discord.svg"/> rinaykumar#6920
+<img align="left" alt="" width="20px" src="https://github.com/rdimascio/icons/blob/master/icons/discord.svg"/> rinaykumar#6920
  
 <br/>
 
