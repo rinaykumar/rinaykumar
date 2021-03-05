@@ -19,8 +19,8 @@ I've also taken courses with exposure to Assembly Language, C, C++, and Python, 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rinaykumar&repo=2chainz-or-bot)](https://github.com/rinaykumar/2chainz-or-bot)
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinaykumar&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinaykumar&layout=compact&langs_count=10)
 
-![Rinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinaykumar&hide=contribs,prs)
+![Rinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinaykumar&hide=contribs,prs&include_all_commits=true&count_private=true&show_icons=true)
 
 
