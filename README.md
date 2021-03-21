@@ -8,7 +8,7 @@
  
 <br/>
 
-I'm a Computer Science major at San Francisco State University. My CS program at SFSU is focused on backend development with Java and Javascript, with frontend focus on Node.js and React.js. 
+I'm a Computer Science major at San Francisco State University graduating in May 2021. My CS program at SFSU is focused on backend development with Java and Javascript, with frontend focus on Node.js and React.js. 
 <br/>
 I've also taken courses with exposure to Assembly Language, C, C++, and Python, with database experience in MonogoDB and MySQL. I also have some exposure in Ariticifal Intelligence, with Machine Learning and Deep Learning. 
 <br/>
