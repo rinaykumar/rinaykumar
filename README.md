@@ -16,6 +16,9 @@ I've also taken courses with exposure to Assembly Language, C, C++, and Python, 
 <br/>
 🔭 I'm currently working on:
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rinaykumar&repo=Machine-Learning-Cell-Type-Discovery)](https://github.com/rinaykumar/Machine-Learning-Cell-Type-Discovery)
+<br/>
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rinaykumar&repo=2chainz-or-bot)](https://github.com/rinaykumar/2chainz-or-bot)
 <br/>
 
