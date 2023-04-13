@@ -8,8 +8,8 @@
 
 Software Quality Engineer with experience leading QA teams and overseeing testing activities, approaches, and strategies. 
 <br/>
-Skilled in developing automated testing suites utilizing Java, Selenium, XML, and RESTful APIs in a CI/CD and BDD environment. Proficient in executing functional testing across frontend and backend systems, identifying critical defects in internal business and large-scale consumer-facing applications. Strong project management and Agile methodologies experience.
 <br/>
+Skilled in developing automated testing suites utilizing Java, Selenium, XML, and RESTful APIs in a CI/CD and BDD environment. Proficient in executing functional testing across frontend and backend systems, identifying critical defects in internal business and large-scale consumer-facing applications. Strong project management and Agile methodologies experience.
 <br/>
 <br/>
 I'm currently working on:
