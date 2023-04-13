@@ -1,20 +1,18 @@
-# Hi there 👋 I'm Rinay
+# Hi 👋 I'm Rinay
 
 <img align="left" alt="Rinay's LinkdeIn" width="20px" src="https://github.com/rdimascio/icons/blob/master/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/rinay-kumar/">
   linkedin.com/in/rinay-kumar
 </a>
-
-<img align="left" alt="" width="20px" src="https://github.com/rdimascio/icons/blob/master/icons/discord.svg"/> rinaykumar#6920
  
 <br/>
 
-I'm a Quality Engineer at Cognizant. I also have experience in backend development with Java and Javascript, frontend development with Node.js and React.js, and database experience with MonogoDB and MySQL. 
+Software Quality Engineer with experience leading QA teams and overseeing testing activities, approaches, and strategies. 
 <br/>
-I also have some exposure in Ariticifal Intelligence, with Machine Learning and Deep Learning. 
+Skilled in developing automated testing suites utilizing Java, Selenium, XML, and RESTful APIs in a CI/CD and BDD environment. Proficient in executing functional testing across frontend and backend systems, identifying critical defects in internal business and large-scale consumer-facing applications. Strong project management and Agile methodologies experience.
 <br/>
 <br/>
 <br/>
-🔭 I'm currently working on:
+I'm currently working on:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rinaykumar&repo=Machine-Learning-Cell-Type-Discovery)](https://github.com/rinaykumar/Machine-Learning-Cell-Type-Discovery)
 <br/>
