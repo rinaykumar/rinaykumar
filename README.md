@@ -1,6 +1,6 @@
 # Hi 👋 I'm Rinay
 
-<img align="left" alt="Rinay's LinkdeIn" width="20px" src="https://github.com/rdimascio/icons/blob/master/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/rinay-kumar/">
+<img align="left" alt="Rinay's LinkdeIn" width="20px" src="https://github.com/rdimascio/icons/blob/master/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/rinaykumar/">
   linkedin.com/in/rinaykumar
 </a>
  
