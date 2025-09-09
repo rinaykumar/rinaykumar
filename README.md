@@ -12,12 +12,4 @@ Software Quality Engineer with experience leading QA teams and overseeing testin
 Skilled in developing automated testing suites utilizing Java, Selenium, and RESTful APIs in a CI/CD and BDD environment. Proficient in executing functional testing across frontend and backend systems, identifying critical defects in internal business and large-scale consumer-facing applications. Strong project management and Agile methodologies experience.
 <br/>
 <br/>
-I'm currently working on:
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rinaykumar&repo=Machine-Learning-Cell-Type-Discovery)](https://github.com/rinaykumar/Machine-Learning-Cell-Type-Discovery)
-<br/>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rinaykumar&repo=2chainz-or-bot)](https://github.com/rinaykumar/2chainz-or-bot)
-<br/>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinaykumar&layout=compact&langs_count=10)
