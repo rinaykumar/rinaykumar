@@ -3,9 +3,8 @@
 <img align="left" alt="Rinay's LinkdeIn" width="20px" src="https://github.com/rdimascio/icons/blob/master/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/rinaykumar/">
   linkedin.com/in/rinaykumar
 </a>
- 
 <br/>
-
+<br/>
 Software Quality Engineer with experience leading QA teams and overseeing testing activities, approaches, and strategies. 
 <br/>
 <br/>
